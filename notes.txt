@@ -1,0 +1,4 @@
+Image_01.JPG | overhead bridge and roadway context | low
+Image_02.JPG | bridge underside with wall staining and inspection view | medium
+Image_03.JPG | steel girder framing and underside component view | low
+Image_04.JPG | underpass roadway and structural context view | low

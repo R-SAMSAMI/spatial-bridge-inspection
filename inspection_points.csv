@@ -1,0 +1,5 @@
+name,image,label,severity,lat,lon,display_lat,display_lon
+Image_01,Image_01.JPG,vertical staining / possible moisture intrusion,medium,41.31837086111111,-72.90287427777778,41.31837086111111,-72.90284427777779
+Image_02,Image_02.JPG,bridge underside overview / inspection context,low,41.31837161111111,-72.90287302777779,41.31840161111111,-72.90287302777779
+Image_03,Image_03.JPG,steel beam connection / minor discoloration,low,41.31837169444445,-72.90287327777779,41.31837169444445,-72.90290327777778
+Image_04,Image_04.JPG,roadway underpass / structural context view,low,41.31836230555556,-72.90259261111112,41.31833230555556,-72.90259261111112
